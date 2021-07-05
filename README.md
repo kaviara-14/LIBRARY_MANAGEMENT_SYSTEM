@@ -1,3 +1,3 @@
 # Library_Management_System
 
-A college library management is a project for both students and library manager to keep a constant track of all the books available in the library
+A web application for an online bookstore where a person could buy ,sell, rent or print books.Tha Application included user features such as account creation/deletion,login/logout,remove/add-to-cart,etc.
